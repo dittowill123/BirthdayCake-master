@@ -45,18 +45,18 @@
             android:layout_height="wrap_content"
             android:text="HOORAY!!" />
 
-        <Button
-            android:id="@+id/button2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="yay..." />
-
         <Switch
             android:id="@+id/Frosting"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Switch" />
+            android:text="Frosting" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="yay..." />
 
     </LinearLayout>
 </LinearLayout>
